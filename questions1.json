@@ -1,0 +1,33 @@
+[
+  {
+    "questionNo": 1,
+    "question": "At the jewelry store, Maddy saw necklaces displayed on hooks. Skip count <b>backward</b> by <b>2s</b> from 10 and fill in the missing blanks.",
+    "options":["10","","",""],
+    "answers": ["10","8","6","4"]
+  },
+  {
+    "questionNo": 2,
+    "question": " In the furniture store, they counted chairs arranged in rows. Skip count <b>backward</b> by <b>2s</b> from 16 and fill in the missing blanks.",
+    "options":["16","","",""],
+    "answers": ["16","14","12","10"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "  At the pet shop, they saw fishbowls lined up on shelves. Skip count <b>backward</b> by <b>2s</b> from 27 and fill in the missing blanks.",
+    "options":["27","","",""],
+    "answers": ["27","25","23","21"]
+  },
+  {
+    "questionNo": 4,
+    "question": "In the art store, there are boxes of crayons. Skip count <b>backward</b> by <b>2s</b> from 74 to fill in the missing numbers.",
+    "options":["74","","",""],
+    "answers": ["74","72","70","68"]
+  },
+  {
+    "questionNo": 5,
+    "question": " In the electronics store, there are chargers displayed in pairs. Skip count <b>backward</b> by <b>2s</b> from 116 to fill in the missing numbers.",
+    "options":["116","","",""],
+    "answers": ["116","114","112","110"]
+  }
+]

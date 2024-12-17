@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "The shoe store has shelves with pairs of shoes. Count the pairs of shoes by 2s and tell how many shoes are there?<br><img width='50%' src='./images/1.png'>",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "At the candy shop, jars are filled with candies. Count the candies by 2s and tell how many candies are there?<br><img width='50%' src='./images/2.png'>",
+        "options": [
+            "8",
+            "6",
+            "4",
+            "5"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "In the toy store, balls are stacked in groups of 2. Count the balls by 2s and tell how many balls there are?<br><img width='50%' src='./images/3.png'>",
+        "options": [
+            "8",
+            "14",
+            "10",
+            "12"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "At the food court they saw cupcakes in a bakery. Count the cupcakes by 2s and tell how many there are?<br><img width='50%' src='./images/4.png'>",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "In one section of the store, there are shirts. Count the shirts by 2s and tell how many there are in total?<br><img width='50%' src='./images/5.png'>",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "10"
+        ],
+        "correct": 1
+    }
+]
